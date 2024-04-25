@@ -1,0 +1,105 @@
+@charset "utf-8"; 
+.container1 .container-fluid .container-fluid {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    background-color: #00749A;
+    font-style: normal;
+    font-weight: bolder;
+    border-radius: 17px;
+    width: 58%;
+    padding-right: 11px;
+    margin-right: 5px;
+    margin-top: -48px;
+    padding-top: 0px;
+    background-image: url(url);
+    overflow-x: hidden;
+    height: 42%;
+    font-size: 150%;
+    min-width: 0px;
+    min-height: 0px;
+    max-width: 533px;
+}
+	.container1 .container-fluid {
+    height: 116px;
+    padding-top: 30px;
+    background-image: url(images/HeaderBG.png);
+    background-size: 700px auto;
+    background-repeat: repeat;
+}
+
+	a {
+    color: white; /* Set the link color to red */
+}
+
+.container2 {
+    background-image: url(images/footerbg.png);
+    background-repeat: repeat;
+    padding-bottom: 66px;
+}
+
+.container2 img {
+    width: 25%;
+    height: 35%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.container2 .container-fluid {
+    height: 50%;
+    margin-left: -11%;
+    margin-top: 0%;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    width: 50%;
+}
+.container2 .container-fluidl {
+    width: 17%;
+    margin-left: 32.75%;
+    margin-top: -12%;
+    overflow-x: visible;
+    padding-right: 5px;
+    overflow-y: visible;
+    padding-top: 6px;
+    padding-left: 0px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    float: none;
+    clear: none;
+    text-align: left;
+}
+
+.container2 .container-fluidtl {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    background-color: #00749A;
+    border-radius: 25px;
+    margin-left: 135%;
+    width: 154px;
+    font-size: 65%;
+    overflow-x: visible;
+    height: 155px;
+    margin-top: -19%;
+}
+
+
+
+.container2 .container-fluidtr {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 25px;
+    background-color: #00749A;
+    width: 154px;
+    height: 155px;
+    font-size: 65%;
+    overflow-x: visible;
+    margin-left: 177%;
+    margin-top: -155px;
+}
