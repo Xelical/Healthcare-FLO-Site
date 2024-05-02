@@ -7,15 +7,15 @@
     font-style: normal;
     font-weight: bolder;
     border-radius: 17px;
-    width: 58%;
+    width: 30vw;
     padding-right: 11px;
     margin-right: 5px;
     margin-top: -48px;
     padding-top: 0px;
     background-image: url(url);
-    overflow-x: hidden;
-    height: 42%;
-    font-size: 150%;
+    overflow-x: visible;
+    height: 6vh;
+    font-size: 1.3vw;
     min-width: 0px;
     min-height: 0px;
     max-width: 533px;
@@ -80,10 +80,10 @@
     background-color: #00749A;
     border-radius: 25px;
     margin-left: 135%;
-    width: 154px;
-    font-size: 65%;
+    width: 8vw;
+    font-size: 0.8vw;
     overflow-x: visible;
-    height: 155px;
+    height: 8vw;
     margin-top: -19%;
 }
 
@@ -96,12 +96,12 @@
     text-align: center;
     border-radius: 25px;
     background-color: #00749A;
-    width: 154px;
-    height: 155px;
-    font-size: 65%;
+    width: 8vw;
+    height: 8vw;
+    font-size: 0.8vw;
     overflow-x: visible;
     margin-left: 177%;
-    margin-top: -155px;
+    margin-top: -8vw;
 }
 .container-fluidcard {
     padding-bottom: 33.333%;
@@ -120,12 +120,12 @@
     font-style: normal;
     font-weight: bolder;
     border-radius: 17px;
-    width: 30%;
+    width: 30vw;
     padding-top: 0px;
     background-image: url(url);
     overflow-x: visible;
-    height: 30%;
-    font-size: 150%;
+    height: 16vw;
+    font-size: 1.5vw;
     min-width: 0px;
     min-height: 0px;
     float: right;
@@ -133,7 +133,6 @@
     margin-top: 5%;
     margin-right: 10%;
     text-align: center;
-    padding-bottom: 15%;
 }
 
 .container-fluidcard .container-fluidcardtitle {
@@ -144,16 +143,16 @@
     font-style: normal;
     font-weight: bolder;
     border-radius: 17px;
-    width: 58%;
+    width: 30vw;
     padding-top: 0px;
     background-image: url(url);
     overflow-x: visible;
-    font-size: 150%;
+    font-size: 1.5vw;
     min-width: 0px;
     min-height: 0px;
     max-width: 533px;
     margin-bottom: 15px;
-    height: 37px;
+    height: 2vw;
     clear: none;
     margin-right: 33.333%;
     margin-left: 33.333%;
@@ -176,11 +175,11 @@
     font-style: normal;
     font-weight: bolder;
     border-radius: 17px;
-    width: 30%;
+    width: 30vw;
     padding-top: 0px;
     background-image: url(url);
     overflow-x: visible;
-    font-size: 150%;
+    font-size: 1.5vw;
     min-width: 0px;
     min-height: 0px;
     float: right;
@@ -188,8 +187,7 @@
     margin-top: 5%;
     margin-right: 10%;
     text-align: center;
-    height: 30%;
-    padding-bottom: 15%;
+    height: 16vw;
 }
 
 .container-fluidcardy .container-fluidcardtitle {
@@ -200,16 +198,16 @@
     font-style: normal;
     font-weight: bolder;
     border-radius: 17px;
-    width: 58%;
+    width: 30vw;
     padding-top: 0px;
     background-image: url(url);
     overflow-x: visible;
-    font-size: 150%;
+    font-size: 1.5vw;
     min-width: 0px;
     min-height: 0px;
     max-width: 533px;
     margin-bottom: 15px;
-    height: 37px;
+    height: 2vw;
     margin-left: 33.3333%;
 }
 .container-fluidheadim img {
@@ -226,15 +224,15 @@
     font-style: normal;
     font-weight: bolder;
     border-radius: 17px;
-    width: 58%;
+    width: 30vw;
     padding-top: 0px;
     background-image: url(url);
     overflow-x: visible;
-    font-size: 150%;
+    font-size: 1.5vw;
     min-width: 0px;
     min-height: 0px;
     max-width: 533px;
-    height: 37px;
+    height: 2vw;
     clear: none;
     margin-right: 33.333%;
     margin-left: 33.333%;
