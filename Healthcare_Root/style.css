@@ -334,31 +334,135 @@
 }
 
 .skill-cardcont {
-	padding-bottom: 33.333%;
-	padding-top: 15px;
-	padding-right: 0px;
+    padding-bottom: 14vw;
+    padding-top: 15px;
+    padding-right: 0px;
 }
 
 .skill-cardcont .skill-card {
-	color: #FFFFFF;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	background-color: #00749A;
-	font-style: normal;
-	font-weight: bolder;
-	border-radius: 17px;
-	width: 30%;
-	padding-top: 0px;
-	background-image: url(url);
-	overflow-x: visible;
-	height: 30%;
-	font-size: 150%;
-	min-width: 0px;
-	min-height: 0px;
-	float: right;
-	padding-left: 0px;
-	margin-top: 5%;
-	text-align: center;
-	padding-bottom: 15%;
-	margin-left: 14%;
-	margin-right: 56px;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #00749A;
+    font-style: normal;
+    font-weight: bolder;
+    border-radius: 17px;
+    width: 20vw;
+    padding-top: 0px;
+    background-image: url(url);
+    overflow-x: visible;
+    height: 9vw;
+    font-size: 150%;
+    min-width: 0px;
+    min-height: 0px;
+    float: left;
+    padding-left: 0px;
+    margin-top: 38px;
+    text-align: center;
+    margin-left: 17vw;
+    margin-bottom: 0px;
+    margin-right: 4vw;
+}
+.skill-cardcont .skill-cardS {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #00749A;
+    font-style: normal;
+    font-weight: bolder;
+    border-radius: 17px;
+    width: 30%;
+    padding-top: 0px;
+    background-image: url(url);
+    overflow-x: visible;
+    height: 30%;
+    font-size: 150%;
+    min-width: 0px;
+    min-height: 0px;
+    float: right;
+    padding-left: 0px;
+    margin-top: 63px;
+    text-align: center;
+    padding-bottom: 15%;
+    margin-right: 11vw;
+}
+.skill-cardconty {
+    padding-bottom: 14vw;
+    padding-top: 15px;
+    padding-right: 0px;
+    background-color: #F6FDA3;
+}
+
+.skill-cardconty .skill-card {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #00749A;
+    font-style: normal;
+    font-weight: bolder;
+    border-radius: 17px;
+    width: 20vw;
+    padding-top: 0px;
+    background-image: url(url);
+    overflow-x: visible;
+    height: 9vw;
+    font-size: 150%;
+    min-width: 0px;
+    min-height: 0px;
+    float: left;
+    padding-left: 0px;
+    margin-top: 38px;
+    text-align: center;
+    margin-left: 17vw;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+    margin-right: 4vw;
+}
+.skill-cardconty .skill-cardS {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #00749A;
+    font-style: normal;
+    font-weight: bolder;
+    border-radius: 17px;
+    width: 30%;
+    padding-top: 0px;
+    background-image: url(url);
+    overflow-x: visible;
+    height: 30%;
+    font-size: 150%;
+    min-width: 0px;
+    min-height: 0px;
+    float: right;
+    padding-left: 0px;
+    margin-top: 63px;
+    text-align: center;
+    padding-bottom: 15%;
+    margin-right: 11vw;
+}
+.skill-cardcontyend {
+    padding-bottom: 14vw;
+    padding-top: 15px;
+    padding-right: 0px;
+    background-color: #F6FDA3;
+}
+
+
+.skill-cardcontyend .skill-cardS {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #00749A;
+    font-style: normal;
+    font-weight: bolder;
+    border-radius: 17px;
+    width: 30%;
+    padding-top: 0px;
+    background-image: url(url);
+    overflow-x: visible;
+    height: 30%;
+    font-size: 150%;
+    min-width: 0px;
+    min-height: 0px;
+    float: right;
+    margin-top: 38px;
+    text-align: center;
+    padding-bottom: 0%;
+    margin-right: 36vw;
 }
